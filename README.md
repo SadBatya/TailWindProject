@@ -4,4 +4,5 @@ phone: 8-909-776-47-38
 
 [Telegram канал](https://t.me/sadbatyaa)
 
-[Start Project](https://sadbatya.github.io/Vue3AndTailWindToDo/)
+[Start Project](https://sadbatya.github.io/TailWindProject/)
+
